@@ -3,7 +3,7 @@ import CardList from  '../components/CardList.js';
 import SearchBots from '../components/SearchBots.js';
 import './App.css';
 import Scroll from '../components/Scroll.js';
-// import ErrorBoundry from '../components/ErrorBoundry.js'
+import ErrorBoundry from '../components/ErrorBoundry.js'
 
 class App extends Component {
 	constructor(){
